@@ -1,0 +1,13 @@
+.header{
+  border:2px solid blue;
+  border-radius: 3px;
+}
+.navsome{
+   margin:4px;
+   border:1px solid green;
+   padding:5px;
+}
+.navsome:hover{
+  background-color:#dbdbdb;
+  cursor: pointer;
+}
